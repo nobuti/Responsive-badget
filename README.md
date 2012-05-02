@@ -1,5 +1,5 @@
 # Javascript media queries helper utility
-Small utility to figure out the breakpoints when you hace to work with css media queries.
+Small utility to figure out breakpoints when you have to work with css media queries.
 
 ## Getting started
 
